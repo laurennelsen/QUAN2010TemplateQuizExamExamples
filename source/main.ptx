@@ -6,7 +6,7 @@
 
   <book xml:id="syllabus">
     <title>QUAN 2010 Quiz Examples and Exam Information</title>
-    <subtitle>Fall 2025</subtitle>
+    <subtitle>Spring 2026</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
