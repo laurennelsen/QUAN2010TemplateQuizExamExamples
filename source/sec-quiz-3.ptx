@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-quiz-3" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 3 Example Problems</title>
+
+  <p> Below are example problems for Quiz 3. </p>
+
+  <p>
+    <ul>
+      <li>
+        <p>
+          Objective 3a Example Problem:
+        </p>
+        <example>
+          <title>Objective 3a Example Problem</title>
+        <p>
+          (This problem will be multiple choice for each part -- you'll need to choose which of several fractions is the correct probability.)
+        </p>
+        <p>
+          A retail industry defines an on-time delivery as one that arrives within 15 minutes of its scheduled time. The following table shows the number of on-time and late deliveries made by three companies during a recent time period:
+        </p>
+        <p>
+          <tabular>
+            <row rowheader="yes" bottom="minor" >
+              <cell>Company</cell>
+              <cell>On-Time Deliveries</cell>
+              <cell>Late Deliveries</cell>
+            </row>
+            <row>
+              <cell>Company A</cell>
+              <cell>80</cell>
+              <cell>240</cell>
+            </row>
+            <row>
+              <cell>Company B</cell>
+              <cell>125</cell>
+              <cell>73</cell>
+            </row>
+            <row>
+              <cell>Company C</cell>
+              <cell>150</cell>
+              <cell>32</cell>
+            </row>
+          </tabular>
+        </p>
+        <p>
+          <ol marker="A.">
+            <li>
+              <p>
+                What is the probability that a randomly selected delivery was from Company C and was on-time?
+              </p>
+            </li>
+            <li>
+              <p>
+                What is the probability that a randomly selected delivery was from Company C or was on-time?
+              </p>
+            </li>
+            <li>
+              <p>
+                Given that the delivery was on-time, what is the probability it was from Company C?
+              </p>
+            </li>
+            <li>
+              <p>
+                Given that the delivery was from Company C, what is the probability that it was late? 
+              </p>
+            </li>
+          </ol>
+        </p>
+        </example>
+      </li>
+      <li>
+        <p>
+          Objective 3b Example Problem:
+        </p>
+        <example>
+          <title>Objective 3b Example Problem</title>
+        <p>
+          (For this problem, round each answer to 4 decimal places. Do not round until you have the final
+answer.)
+        </p>
+        <p>
+Consider store that sells primarily PCs. Each customer that comes in may buy one, none or several
+PCs. Let <m>X</m> denote the number of PCs a customer who comes into the store purchases. Consider the
+following probability distribution table for <m>X</m>:
+        </p>
+        <p>
+            <tabular halign="center">
+              <row header="yes" bottom="minor" >
+                <cell right="minor"><m>X_i</m></cell>
+                <cell right="minor"><m>0</m></cell>
+                <cell right="minor"><m>1</m></cell>
+                <cell right="minor"><m>2</m></cell>
+                <cell ><m>3</m></cell>
+              </row>
+              <row>
+                <cell right="minor"><m>P(X=X_i)</m></cell>
+                <cell right="minor">???</cell>
+                <cell right="minor"><m>0.374</m></cell>
+                <cell right="minor"><m>0.09</m></cell>
+                <cell ><m>0.02</m></cell>
+              </row>
+            </tabular>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                What is the value of the missing entry?
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the expected value of <m>X</m>, <m>E(X)</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the variance of <m>X</m>, <m>Var(X)</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the standard deviation of <m>X</m>, <m>\sigma_X</m>.
+              </p>
+            </li>
+          </ol>
+        </p>
+        </example>
+      </li>
+    </ul>
+  </p>
+
+  <subsection xml:id="subsec-quiz-3-solutions">
+    <title>Solutions</title>
+
+    
+    <p>
+        <ul>
+          <li>
+          <p>
+            Excel files and/or written work for solutions:
+            
+          </p>
+          
+            <p>
+            <url href="external/sheets/Example Quiz 3 Solutions.pdf" />
+            <url href="external/sheets/3a Example Solution.xlsx" />
+            <url href="external/sheets/3b Example Solution.xlsx" />
+
+          </p>
+      
+      </li>
+      
+        <li>
+        <p> Videos of Solutions:
+            <ul>
+              <li>
+                <p>
+                  <em>Objective 3a:</em>
+                </p>
+                <p>
+                  <video youtube="aqVDVm5hjYc"/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 3b:</em>
+                </p>
+                <p>
+                  <video youtube="s_aqlfiHpmo"/>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>  
+       
+      </ul>
+       
+      </p>
+    
+  </subsection>
+
+</section>

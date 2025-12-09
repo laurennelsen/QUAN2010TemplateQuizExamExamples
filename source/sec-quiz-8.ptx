@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-quiz-8" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 8 Example Problems</title>
+
+  <p> Below are example problems for Quiz 8. </p>
+
+  
+
+  <subsection xml:id="subsec-quiz-8-solutions">
+    <title>Quiz 8 Example Problems</title>
+
+
+    
+    <p>
+      <ul>
+        <li>
+          <p>
+            Objective 8a Example Problem:
+          </p>
+          <example>
+            <title>Objective 8a Example Problem</title>
+            <p>
+              (Each part of this problem will be multiple choice.)
+            </p>
+            <p>
+              A business compares the amount it spends on advertising (thousands of dollars per month) to its revenues (thousands of dollars per month) over the last few months.
+            </p>
+            <p>
+              Consider the Excel file below that contains data that was collected comparing Advertising Expense measured in thousands of dollars/month and Revenue measured in thousands of dollars/month:
+            </p>
+            <p>
+               <url href="external/sheets/AdvertisingRevenue1.xlsx" />
+            </p>
+            <p>
+              <ol>
+                <li>
+                  <p>
+                    Compute the sample correlation coefficient, <m>r</m>.  (Round to three decimal places.)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Let <m>x=</m>Advertising Expense and <m>y=</m>Revenue.  Find the equation of the regression line.  (Round the slope and y-intercept to three decimal places.)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    If the advertising expense is 5.1 thousand dollars per month, what is the predicted revenue, rounded to the nearest dollar?  (Use the formula you found in the previous part with the rounded slope and y-intercept to find this.)
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </example>
+        </li>
+         <li>
+          <p>
+            Objective 8b Example Problem:
+          </p>
+          <example>
+            <title>Objective 8b Example Problem</title>
+            <p>
+              Your class conducted a semester-long project analyzing sales data from a local bookstore. You collected data on 40 different books, including:
+            </p>
+            <p>
+              <ul>
+                <li>
+                  <p>
+                    Sales (in dollars)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Number of pages
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Average customer rating
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Shelf location score (a subjective score from 1-5 based on visibility and foot traffic)
+                  </p>
+                </li>
+              </ul>
+            </p>
+            <p>
+              You’ve been given a cleaned dataset below and asked to build a multiple linear regression model to predict Sales using the other three variables.  Let 
+ <m>x_1</m> be the number of pages, <m> x_2</m> be the average customer rating, 
+<m>x_3</m> be the shelf location score, and 
+<m>y</m> be sales (in dollars).
+            </p>
+            <p>
+               <url href="external/sheets/BookstoreSalesData.xlsx" />
+            </p>
+            <p>
+              Include answers to all questions below in the Excel file that you upload for this problem, and include any work or calculations you did in the Excel file.
+            </p>
+            <p>
+              <ol marker="(a)">
+                <li>
+                  <p>
+                    Use the Data Analysis tool to run a multiple regression using this dataset.  What is the regression equation?  (Round each parameter to one decimal place when you type in the equation.)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Test the overall significance of the model at a significance level of <m>\alpha=0.10</m>.
+                    <me>
+                      H_0:\;\; \beta_1=\beta_2=\beta_3=0
+                      </me>
+                      <me>
+                      H_1:\;\; \text{At least one }\beta_i\neq 0
+                    </me>
+                    <ul>
+                      <li>
+                        <p>
+                          In your Excel file, identify the test statistic for this hypothesis test and the p-value for this hypothesis test.
+                        </p>
+                      </li>
+                      <li>
+                        <p>
+                          What do you conclude and why?
+                        </p>
+                      </li>
+                    </ul>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    In part (a) you found the regression model in the form
+                    <me>
+                      \hat{y} = b_0+b_1\cdot x_1 + b_2\cdot x_2 +b_3\cdot x_3
+                    </me>
+                    Find a <m>95\%</m> confidence interval for <m>\beta_2</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    One of your classmates claims that "average customer rating doesn't matter".  Use the regression output and/or your answer to part (c) to evaluate this claim.
+                  </p>
+                </li>
+              </ol>
+            </p>
+          </example>
+        </li>
+      </ul>
+    </p>
+    
+    <p>
+        <ul>
+          <li>
+          <p>
+            Excel files and/or written work for solutions:
+            
+          </p>
+          <p>
+            <url href="external/sheets/AdvertisingRevenue1Solution.xlsx" />
+            <url href="external/sheets/BookstoreSalesDataSolution.xlsx" />
+
+          </p>
+      
+      </li>
+      
+        <li>
+        <p> Videos of Solutions:
+            <ul>
+              <li>
+                <p>
+                  <em>Objective 8a:</em>
+                </p>
+                <p>
+                  <video youtube="Fd1XywNTbLY"/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 8b:</em>
+                </p>
+                <p>
+                  <video youtube="cCiHQWl5GLk"/>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>  
+       
+      </ul>
+       
+      </p>
+    
+  </subsection>
+
+</section>

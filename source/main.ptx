@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <book xml:id="syllabus">
+    <title>QUAN 2010 Quiz Examples and Exam Information</title>
+    <subtitle>Fall 2025</subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include chapters -->
+    <!-- <xi:include href="./ch-syllabus.ptx" />-->
+    <xi:include href="./ch-quiz-problems.ptx" />
+    <xi:include href="./ch-exam-info.ptx" />
+
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </book>
+</pretext>

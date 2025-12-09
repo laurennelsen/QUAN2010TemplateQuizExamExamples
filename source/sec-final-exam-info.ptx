@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-final-exam-info" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Final Exam Information</title>
+
+  <subsection xml:id="subsec-final-exam-info">
+    <title>Final Exam Information</title>
+
+  <p>
+   The Final Exam will be available on Canvas to take during class on the day listed in the syllabus.  (You must be in person in the classroom to take the exam.)
+  </p>
+
+
+  <ul>
+    <li>
+      <p>
+        The exam will cover 8, 9, 13, 10, and 14-15 from the textbook, which are Chapters 9-13 in the course notes: <url href="https://laurennelsen.github.io/QUAN2010/QUAN_2010_Notes.html"> Link to course notes </url>
+        
+      </p>
+      
+    </li>
+
+<!-- <li>
+      <p>
+        The exam will be broken into two parts, and you will have 60 minutes for each part of the exam.
+      </p>
+    </li>-->
+
+<li>
+  <p>
+During the exam you may use your notes, the online course notes, the quiz/exam information site, a basic calculator (no phone) and a blank Excel file.  Some problems will require you to upload an Excel file with all your work/calculations in order to receive credit.
+During quizzes you may NOT search the internet, use generative AI or use other resources that are not allowed.   </p>
+</li>
+
+
+<li>
+  <p>
+    You are NOT allowed to use other people's work or search internet sites while taking the test.  If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.
+  </p>
+</li>
+
+<li>
+
+  <p>
+    Even though you are allowed to use your notes and course resources during the exam, I strongly recommend making a <q>cheat sheet</q> to use while you take the exam!  It can help you prepare for the exam and be ready for the types of questions that will be on the exam.  (If you don't prepare and practice the example problems, you might find yourself spending a long time searching and trying to figure out how to do problems while you're taking the exam.)
+  </p>
+
+  </li>
+
+
+<li>
+  <p>
+    Unless otherwise indicated, you must show steps/include all of your Excel calculations and formulas that demonstrate the process you take to get to the final answer.
+  </p>
+
+  <p>
+  For problems involving probability distributions (such as the binomial or normal distribution), you need to use the Excel files to find any relevant values and not use values from a table.
+  </p>
+
+  <p>
+    For problems that require showing work, credit will be given for not only the final answer, but the work/justification/formulas that supports that answer.
+
+  </p>
+</li>
+
+
+<li>
+  <p>
+    If you have a question during the exam, ask me!  It is much better to ask right away than to stay stuck for a long time.
+  </p>
+</li>
+
+
+
+  </ul>
+</subsection>
+
+  <subsection xml:id="subsec-final-exam-format">
+    <title>Final Exam Format</title>
+
+
+    
+
+    <p>
+      The exam may have some or all of the following problems/types of problems.  (The exam may have all of these types of problems or a subset of these types of problems.  Some of these problems might not have all the parts that were on corresponding quiz/homework problems.)  Examples of these problems (except for the multiple choice problems) are shown below under <xref ref="exercises-exam-1-practice"/>.
+    </p>
+
+    <p>
+      Problems on the exam might not be the same format or the same submission type as the example problems under <xref ref="exercises-exam-1-practice"/>.  (For example, a problem requiring upload of an Excel file might be multiple choice or fill-in-the-blank, or vice versa.)
+    </p>
+
+    <p>
+            <em>Note:  On the exam, the problems may not all be labeled with the corresponding quiz objective/homework problem.</em>
+      
+    </p>
+
+    <p>
+      For each problem involving a hypothesis test, you may be given a left-tailed, right-tailed, or two-tailed test.  So even if the example test is a two-tailed test, you might be given a one-tailed test on the exam (or vice-versa).  So make sure you understand the process and are not just copying the formulas!
+    </p>
+    
+    <p>
+      For the multiple choice problems, I recommend looking back at conceptual homework assignments, reviewing concepts from the notes/the book and making sure you understand the definitions and topics we've talked about.
+    </p>
+
+    
+            <ul>
+              <li>
+                <p>
+                  <em>Multiple choice problems</em> from these chapters.  (No work is required to be shown for these.)
+                </p>
+              </li>
+        
+            
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{5a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-5.html"> Link to example solutions </url>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz Objective <m>\boxed{7b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-7.html"> Link to example solutions </url>
+                </p>
+                <p>
+                  I'll ask the following things for this problem:
+                  <ul>
+                    <li>
+                      <p>
+                        What is the p-value?
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        Should we reject or fail to reject the null hypothesis?
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        Is there enough evidence to conclude that the average difference in ... is greater than ... points?
+                      </p>
+                    </li>
+                  </ul>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{8a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-8.html"> Link to example solutions </url>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{8b}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-8.html"> Link to example solutions </url>
+                </p>
+              </li>
+              
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{6a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-6.html"> Link to example solutions </url>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em> Week 10 HW Question 8</em>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Quiz outcome <m>\boxed{7a}</m>:</em>  <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-7.html"> Link to example solutions </url>
+                </p>
+                <!--<p>
+                  (I will give you a version where we assume that the population variances are not equal.  I will also give you the box of formulas below on the exam, and I'll tell you what <m>df</m> to use.)
+                </p>
+                <p>
+                  <image source="sheets/FinalFormulas.png" width="100%">
+                  </image>
+                </p>-->
+              </li>
+            </ul>
+
+ 
+  </subsection>
+
+
+
+
+  <subsection xml:id="subsec-final-exam-study-suggestions">
+    <title>Suggestions for Study</title>
+
+    <p>
+      Look over all of your class notes and make sure you understand everything we have talked about.  Look back at these chapters/problems in the textbook.  Review the MyLab homework and the quiz problems.  (I do not guarantee that all exam questions will look exactly like one of those problems.) 
+
+    </p>
+    
+  </subsection>
+
+
+
+  <exercises xml:id="exercises-final-exam-practice">
+
+
+
+    
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{5a}</m>:</em>
+  </p>
+  <p>
+    A company wondered if people liked the user interface of their upgraded website.  They survey a random selection of their customers.
+  </p>
+  <p>
+    Suppose that for <m>n=45</m> surveyed customers, 32 preferred the new user interface.
+  </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p>
+        Find a <m>95\%</m> confidence interval for the proportion of all the company's customers that prefer the new interface.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>\alpha=1-0.95=0.05</m>, <m>\alpha/2=0.025</m>
+      </p>
+      <p>
+        <m>\overline{p}=\frac{32}{45}\approx 0.7111</m>
+      </p>
+      <p>
+        <m>z_{\alpha/2}=NORM.S.INV(.025+.95)\approx 1.96</m>
+      </p>
+      <p>
+        Convidence interval formula:  <m>\overline{p}\pm (z_{\alpha/2})\cdot\left(\sqrt{\frac{\overline{p}(1-\overline{p})}{n}}\right)</m>
+      </p>
+      <p>
+        The confidence interval is approximately:
+        <me>.7111\pm (1.96)\left(\sqrt{\frac{.7111(1-.7111)}{45}}\right)\rightarrow \boxed{ (0.5787, 0.8435) }</me>
+      </p>
+    </answer>
+  </task>
+
+  <task>
+    <statement>
+      <p>
+        Suppose the company claims that at least <m>85\%</m> of all the company's customers prefer the new interface.  Does the confidence interval you found support this claim?  Explain why or why not.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        No, it does not.  We are <m>95\%</m> confident that <m>p</m> is between <m>57.87\%</m> and <m>84.35\%</m>, and <m>85\%</m> is larger than <m>84.35\%</m>.
+      </p>
+    </answer>
+  </task>
+
+</exercise>
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{7b}</m>:</em>
+  </p>
+  <p>
+    A company tests two different packagings for their product.  They ask members of a focus group to rate how appealing each packagin for the product is on a scale of 1-10.  A total of 25 focus group members were samples.  The file attached below is a summary of ratins for packaging A and ratings for packaging B.
+
+  </p>
+  <p>
+    <url href="external/sheets/Packaging Ratings1.xlsx" />
+  </p>
+  <p>
+    Let <m>\alpha=0.01</m> and test the hypothesis that the average difference in rating between packaging A and B is not equal to 0 points.  (Assume <m>\mu_1</m> is the average rating for packaging A and <m>\mu_2</m> is the average rating for packaging B, and let <m>\mu_d=\mu_1-\mu_2</m>.)
+  </p>
+  <me>
+    H_0:\;\; \mu_d=0
+  </me>
+  <me>
+    H_1:\;\; \mu_d\neq 0
+  </me>
+  <p>
+    (The solutions to this problem are here:   <url href="external/sheets/PackagingRatingsSolutions.xlsx" />)
+  </p>
+  
+</introduction>
+<task>
+  <statement>
+    <p>
+      What is the p-value?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>\approx 0.6917</m>
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      Should we reject or fail to reject the null hypothesis?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Fail to reject the null
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+       Is there enough evidence to conclude that the average difference in rating between packaging A and B is different from 0?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      No, there is not.  Since we failed to reject the null, there is not enough evidence to conclude the alternative hypothesis is true.
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      Find a <m>99\%</m> confidence interval for the average difference in the ratings for Packaging A and Packaging B.  (Round each number to two decimal places, and do not round until the final answer.)
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>(-0.55,0.73)</m>
+    </p>
+  </answer>
+</task>
+</exercise>
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{8a}</m>:</em>
+  </p>
+            
+            <p>
+              A business compares the amount it spends on advertising (thousands of dollars per month) to its revenues (thousands of dollars per month) over the last few months.
+            </p>
+            <p>
+              Consider the Excel file below that contains data that was collected comparing Advertising Expense measured in thousands of dollars/month and Revenue measured in thousands of dollars/month:
+            </p>
+            <p>
+               <url href="external/sheets/AdvertisingRevenue1.xlsx" />
+            </p>
+            <p>
+              (Here is the file with solutions: <url href="external/sheets/AdvertisingRevenue1Solution.xlsx" />)
+            </p>
+          </introduction>
+
+<task>
+  <statement>
+    <p>
+      Compute the sample correlation coefficient, <m>r</m>.  (Round to three decimal places.)
+      
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>
+        r \approx 0.715
+      </me>
+      
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Let <m>x=</m>Advertising Expense and <m>y=</m>Revenue.  Find the equation of the regression line.  (Round the slope and y-intercept to three decimal places.)
+      
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>
+        y=63.388\cdot x + 33.703
+      </me>
+      
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      If the advertising expense is 5.1 thousand dollars per month, what is the predicted revenue, rounded to the nearest dollar?  (Use the formula you found in the previous part with the rounded slope and y-intercept to find this.)
+      
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>
+        \approx \$ 356,982
+      </me>
+      
+    </p>
+  </answer>
+</task>
+
+              
+</exercise>
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{8b}</m>:</em>
+  </p>
+  <p>
+              Your class conducted a semester-long project analyzing sales data from a local bookstore. You collected data on 40 different books, including:
+            </p>
+            <p>
+              <ul>
+                <li>
+                  <p>
+                    Sales (in dollars)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Number of pages
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Average customer rating
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Shelf location score (a subjective score from 1-5 based on visibility and foot traffic)
+                  </p>
+                </li>
+              </ul>
+            </p>
+            <p>
+              You’ve been given a cleaned dataset below and asked to build a multiple linear regression model to predict Sales using the other three variables.  Let 
+ <m>x_1</m> be the number of pages, <m> x_2</m> be the average customer rating, 
+<m>x_3</m> be the shelf location score, and 
+<m>y</m> be sales (in dollars).
+            </p>
+            <p>
+               <url href="external/sheets/BookstoreSalesData.xlsx" />
+            </p>
+            <p>
+              If you are asked to submit an Excel file for this problem, include answers to all questions below in the Excel file that you upload for this problem, and include any work or calculations you did in the Excel file.
+            </p>
+            <p>
+              <ol marker="(a)">
+                <li>
+                  <p>
+                    Use the Data Analysis tool to run a multiple regression using this dataset.  What is the regression equation?  (Round each parameter to one decimal place when you type in the equation.)
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Test the overall significance of the model at a significance level of <m>\alpha=0.10</m>.
+                    <me>
+                      H_0:\;\; \beta_1=\beta_2=\beta_3=0
+                      </me>
+                      <me>
+                      H_1:\;\; \text{At least one }\beta_i\neq 0
+                    </me>
+                    <ul>
+                      <li>
+                        <p>
+                          In your Excel file, identify the test statistic for this hypothesis test and the p-value for this hypothesis test.
+                        </p>
+                      </li>
+                      <li>
+                        <p>
+                          What do you conclude and why?
+                        </p>
+                      </li>
+                    </ul>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    In part (a) you found the regression model in the form
+                    <me>
+                      \hat{y} = b_0+b_1\cdot x_1 + b_2\cdot x_2 +b_3\cdot x_3
+                    </me>
+                    Find a <m>95\%</m> confidence interval for <m>\beta_2</m>.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    One of your classmates claims that "average customer rating doesn't matter".  Use the regression output and/or your answer to part (c) to evaluate this claim.
+                  </p>
+                </li>
+              </ol>
+            </p>
+</introduction>
+<solution>
+  <p>
+    <url href="external/sheets/BookstoreSalesDataSolution.xlsx" />
+
+  </p>
+</solution>
+</exercise>
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{6a}</m>:</em>
+  </p>
+
+  <p>
+    A CEO is curious if the proportion of employees that are satisfied with their job is greater than <m>30\%</m>.  They conduct a survey of employees.  Suppose that for <m>n=380</m> surveyed employees, 125 were satisfied with their job.  Use <m>\alpha=0.05</m> and test the hypothesis that the proportion of all employees that are satisfied with their job is greater than <m>30\%</m>.
+  </p>
+
+</introduction>
+
+<task>
+  <statement>
+    <p>
+      State the null hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_0:\; p\leq 0.30</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      State the alternative hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_1:\; p\gt 0.30</m>  <m>\leftarrow </m> (right-tail test)
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Find the appropriate test statistic.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>z=\frac{\overline{p}-p}{\sqrt{\frac{p(1-p)}{n}}}=\frac{\frac{125}{380}-0.30}{\sqrt{\frac{0.30(1-0.30)}{380}}}\approx 1.2314</me>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What is the p-value?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>\text{p-value}\approx 1-NORM.S.DIST(1.2314,1)\approx \boxed{ 0.1091 }</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What do we conclude and why?  Do we have enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than <m>30\%</m>?  Why or why not?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Since the p-value is bigger than <m>\alpha=0.05</m>, we fail to reject the null hypothesis.  So there is <em>not</em> enough evidence to conclude that the proportion of employees that are satisfied with their job is greater than <m>30\%</m>.
+    </p>
+  </answer>
+</task>
+
+</exercise>
+
+
+
+
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Week 10 HW Question 8:</em>
+  </p>
+  <p>
+    Suppose a student has two possible routes for their commute to school.  Because they never want to be late for class, they want to choose the route that provides a more consistent commute time.  Being a hopeless statistician, the student meticulously drove the first route 20 times and the second route 25 times and calculated the standard deviations for each.  The following table summarizes sample data collected from two different routes.
+  </p>
+  <p>
+    <tabular>
+      <row header="yes">
+        <cell></cell> <cell>Route A</cell> <cell>Route B</cell>
+      </row>
+      <row>
+        <cell>sample standard deviation</cell> <cell>6.5 minutes</cell> <cell>10.4 minutes</cell>
+      </row>
+      <row>
+        <cell>sample size</cell> <cell>25</cell>  <cell>20</cell>
+      </row>
+    </tabular>
+  </p>
+
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        Using <m>\alpha=0.05</m>, we want to determine if Route A provides a more consistent commute time than Route B.  First, state the null alternative hypotheses.  (Let <m>\sigma_1^2</m> represent the larger sample variance and <m>\sigma_2^2</m> represent the smaller sample variance.)
+      </p>
+    </statement>
+    <answer>
+      <p>
+        (Since Route B has the bigger sample standard deviation, Route B is <q>Population 1</q> and Route A is <q>Population 2</q>.)
+      </p>
+      <p>
+        <m>H_0:\; \sigma_1^2\leq \sigma_2^2</m>
+      </p>
+      <p>
+        <m>H_1:\; \sigma_1^2\gt \sigma_2^2</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Calculate the appropriate test statistic.
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <me>F=\frac{s_1^2}{s_2^2}=\frac{(10.4)^2}{(6.5)^2}=\boxed{2.56}</me>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Calculate the appropriate critical value (using <m>\alpha=0.05</m>).
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <me>F.INV.RT(.05,20-1,25-1)\approx \boxed{2.0399}</me>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What can we conclude?  Do we have enough evidence to conclude that Route A provides a more consistent commute time than Route B?  Why or why not?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        Since the test statistic is in the rejection region, we reject the null hypothesis and have enough evidence to conclude that Route A provides a more consistent commute time than Route B.
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+
+
+<exercise>
+  <introduction>
+  <p>
+    <em>Quiz outcome <m>\boxed{7a}</m>:</em>
+  </p>
+  <p>
+    <em>Note:</em>  For this problem you might be given a version with equal variances or a version with unequal variances.  If you are given a version with unequal variances, then I will give you degrees of freedom in the problem.
+  </p>
+  <!--<p>
+    <image source="sheets/FinalFormulas.png" width="100%">
+    </image>
+  </p>-->
+  <p>
+    Assume <m>\alpha=0.05</m> for parts (a)-(d).
+  </p>
+  <p>
+    A researcher wants to study average commute time for students at UCCS and students at CU Denver.  Out of 35 students from CU Denver, the average commute time was <m>\overline{x}_1=34</m>, with sample standard deviation <m>s_1=5.2</m> minutes.  Then out of 30 students from UCCS, the average commute time was <m>\overline{x}_2=22</m> minutes, with sample standard deviation <m>s_2=8.3</m> minutes.
+  </p>
+  <p>
+    Assume that the population variances are not equal and that <m>df=47</m>.
+  </p>
+  <p>
+    We want to test the hypothesis that the difference in the average commute times between CU Denver students and UCCS students is less than 15 minutes.
+  </p>
+  </introduction>
+  
+<task>
+  <statement>
+    <p>
+      State the null hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_0:\; \mu_1-\mu_2\geq 15</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      State the alternative hypothesis.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>H_1:\; \mu_1-\mu_2\lt 15</m>  (<m>\leftarrow</m> left-tailed test)
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      What is the p-value?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      test statistic:  <me>t=\frac{(\overline{x}_1-\overline{x}_2)-(\mu_1-\mu_2)_{H_0}}{\sqrt{\frac{s_1^2}{n_1}+\frac{s_2^2}{n_2}}}=\frac{34-22-15}{\sqrt{\frac{(5.2)^2}{35}+\frac{(8.3)^2}{30}}}\approx -1.7125</me>
+    </p>
+    <p>
+      p-value: <me>\approx T.DIST(-1.7125,47,1)\approx\boxed{0.0467}</me>
+    </p>
+  </answer>
+</task>
+
+
+<task>
+  <statement>
+    <p>
+      What do we conclude and why?  Do we have enough evidence to conclude that the difference in the average commute times between CU Denver and UCCS students is less than 15 minutes?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Since the p-value (<m>0.0467</m>) is less than <m>alpha=0.05</m>, we reject the null hypothesis, and we have enough evidence to conclude that the difference in average commute times is less than 15 minutes.
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Now find a <m>99\%</m> confidence interval for the the difference in average commute times between CU Denver students and UCCS students.  (Round each of the numbers to two decimal places, and wait until the end to round.)
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>
+        (7.30,16.70)
+      </me>
+      
+    </p>
+  </answer>
+</task>
+
+</exercise>
+
+
+  </exercises>
+
+
+
+  </section>

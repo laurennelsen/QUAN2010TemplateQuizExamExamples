@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-quiz-4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Quiz 4 Example Problems</title>
+
+  <p> Below are example problems for Quiz 4. </p>
+
+  <p>
+    <ul>
+      <li>
+        <p>
+          Objective 4a Example Problem:
+        </p>
+        <example>
+          <title>Objective 4a Example Problem</title>
+          
+          
+        <p>
+          Your class conducted a survey last week on whether students prefer digital or paper textbooks. Out of 120 responses, 72 preferred digital.
+        </p>
+        <p>
+          You are designing a promotional campaign for a new digital textbook. You plan to randomly sample 10 students from the same population.
+        </p>
+        <ol marker="a)">
+
+          <li>
+            <p>
+              Assuming it is appropriate to model the number of students who prefer digital textbooks using a binomial distribution, what formula would you use to find the probability that less than 8 of the 10 sampled students prefer digital?
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,0) 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+              </ul>
+            </p>
+          </li>
+
+          <!--<li>
+            <p>
+              Is it appropriate to model the number of students who prefer digital textbooks using a binomial distribution? Justify your answer.
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    Yes because more than half of students in the previous survey preferred digital 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Yes because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability is the same each time, and what one student prefers should be independent of what another prefers  
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    No because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability is the same each time, and what one student prefers should be independent of what another prefers 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Yes because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability changes each time, and what one student prefers should be independent of what another prefers 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    No because more than half of students in the previous survey preferred digital 
+
+                  </p>
+                </li>
+              </ul>
+
+            </p>
+          </li>-->
+          <li>
+            <p>
+              Assuming it is appropriate to model the number of students who prefer digital textbooks using a binomial distribution, what formula would you use to find the probability that at least 8 of the 10 sampled students prefer digital?
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,0) 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+              </ul>
+            </p>
+          </li>
+        </ol>
+        </example>
+      </li>
+      <li>
+        <p>
+          Objective 4b Example Problem:
+        </p>
+        <example>
+          <title>Objective 4b Example Problem</title>
+        <p>
+          Let <m>Z</m> be the standard normal variable.
+          <ol marker="A.">
+            <li>
+              <p>
+                Consider the Excel formula given below:
+                <me>
+                  =1-NORM.S.DIST(1.06,1)
+                </me>
+                Which of the following probabilities could this formula be used to calculate?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is less than 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is equal to 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is between 1 and 1.06
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+            <li>
+              <p>
+                Consider the Excel formula given below:
+                <me>
+                  =NORM.S.DIST(3.2,1)-NORM.S.DIST(-1.7,1)
+                </me>
+                Which of the following probabilities could this formula be used to calculate?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      the probability that Z is between -1.7 and 3.2
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 3.2 or smaller than -1.7
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 3.2 and -1.7
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is between 1 and 3.2 or between 1 and -1.7
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+            <li>
+              <p>
+                Which of these formulas could be used to find <m>z^{\star}</m> such that <m>P(Z\leq z^{\star})=0.96</m>?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      =NORM.S.INV(0.04) 
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.INV(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.DIST(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.DIST(0.04) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.INV(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.INV(0.04) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.DIST(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.DIST(0.04) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+            <li>
+              <p>
+                Which of these formulas could be used to find <m>z^{\star}</m> such that <m>P(-z^{\star}\leq Z\leq z^{\star})=0.95</m>?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95+0.05) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95 + 0.05/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(1-0.95/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.INV(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.INV(0.975) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95+0.05/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95+0.05) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+          </ol>
+        </p>
+        </example>
+      </li>
+      <li>
+        <p>
+          Objective 4c Example Problem:
+        </p>
+        <example>
+          <title>Objective 4c Example Problem</title>
+        <p>
+          A random variable follows a normal probability distribution with a standard deviation of 5.
+          <ol>
+            <li>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c1.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(32,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(32,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(32,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(32,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.DIST(32,1) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+            <li>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c2.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(40,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.DIST(40,1) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+            </li>
+            <li>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c3.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(35,38,5,1)-NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,1)-NORM.DIST(35,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,5,38,1)-NORM.DIST(35,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(35,5,38,1)-NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,0)-NORM.DIST(35,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(35,38,5,0)-NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(40,1)-NORM.S.DIST(35,1) 
+
+                    </p>
+                  </li>
+                
+                </ul>
+              </p>
+            </li>
+          </ol>
+        </p>
+        </example>
+      </li>
+    </ul>
+  </p>
+
+  <subsection xml:id="subsec-quiz-4-solutions">
+    <title>Solutions</title>
+
+    
+    <p>
+        <ul>
+          <li>
+          <p>
+            Written work for solutions:
+            
+          </p>
+          <p>
+            <url href="external/sheets/Objective4a.pdf" />
+          </p>
+          <p>
+            <url href="external/sheets/Example 4b and 4c Solutions.pdf" />
+
+          </p>
+      
+      </li>
+      
+        <li>
+        <p> Videos of Solutions:
+            <ul>
+              <li>
+                <p>
+                  <em>Objective 4a:</em>
+                </p>
+                
+                <p>
+                  <video youtube="oybwzyW206I"/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 4b:</em>
+                </p>
+                <p>
+                  <video youtube="OIFx-euba04"/>
+                </p>
+              </li>
+              <li>
+                <p>
+                  <em>Objective 4c:</em>
+                </p>
+                <p>
+                  <video youtube="b4Q-wC5f-XE"/>
+                </p>
+              </li>
+            </ul>
+          </p>
+        </li>  
+       
+      </ul>
+       
+      </p>
+    
+  </subsection>
+
+</section>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Syllabus</title>
+
+  <introduction>
+    <ul>
+      <li>
+        <p>
+          QUAN 2010 Section 1:  Tuesdays 8am-10:40am
+        </p>
+      </li>
+      <li>
+        <p>
+          QUAN 2010 Section 2:  Tuesdays 1:40pm-4:20pm
+        </p>
+      </li>
+      <li>
+        <p>
+          QUAN 2010 Section 3:  Thursdays 10:50am-1:30pm
+        </p>
+      </li>
+    </ul>
+  </introduction>
+
+  <!-- include sections -->
+   <xi:include href="sec-COB-mission.ptx" />
+   <xi:include href="sec-instructor-info.ptx" />
+   <xi:include href="sec-opportunities-for-help.ptx" />
+   <xi:include href="sec-course-content-format.ptx" />
+   <xi:include href="sec-required-materials.ptx" />
+   <xi:include href="sec-assignments-and-grading.ptx" />
+   <xi:include href="sec-accessing-homework.ptx" />
+   <xi:include href="sec-inclusive-environment.ptx" />
+   <xi:include href="sec-student-services.ptx" />
+   <xi:include href="sec-policies.ptx" />
+   <xi:include href="sec-course-schedule.ptx" />
+
+</chapter>

@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-exam-1-info" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Exam 1 Information</title>
+
+  <subsection xml:id="subsec-exam-1-info">
+    <title>Exam 1 Information</title>
+
+  <p>
+   Exam 1 will be available on Canvas to take during class on the day listed in the syllabus.  (You must be in person in the classroom to take the exam.)
+  </p>
+
+
+  <ul>
+    <li>
+      <p>
+        The exam will cover Chapters 2, 3, 4, 5, 6, and 7(Part 1) from the textbook, which are Chapters 2-7 in the course notes.  <url href="https://laurennelsen.github.io/QUAN2010/QUAN_2010_Notes.html"> Link to course notes </url>
+      
+      </p>
+      
+    </li>
+
+
+   <!-- <li>
+      <p>
+        The exam will be broken into two parts, and you will have 60 minutes for each part of the exam.
+      </p>
+    </li>-->
+
+<li>
+  <p>
+During the exam you may use your notes, the online course notes, the quiz/exam information site, a basic calculator (no phone) and a blank Excel file.  Some problems will require you to upload an Excel file with all your work/calculations in order to receive credit.
+During quizzes you may NOT search the internet, use generative AI or use other resources that are not allowed.   </p>
+</li>
+
+
+<li>
+  <p>
+    You are NOT allowed to use other people's work or search internet sites while taking the test.  If you share you answers and others use them, both you and the students you shared with may receive a zero for the exam and may fail the course.
+  </p>
+</li>
+
+<li>
+
+  <p>
+    Even though you are allowed to use your notes and course resources during the exam, I strongly recommend making a <q>cheat sheet</q> to use while you take the exam!  It can help you prepare for the exam and be ready for the types of questions that will be on the exam.  (If you don't prepare and practice the example problems, you might find yourself spending a long time searching and trying to figure out how to do problems while you're taking the exam.)
+  </p>
+
+  </li>
+
+
+<li>
+  <p>
+    Unless otherwise indicated, you must show steps/include all of your Excel calculations and formulas that demonstrate the process you take to get to the final answer.
+  </p>
+
+  <p>
+  For problems involving probability distributions (such as the binomial or normal distribution), you need to use the Excel files to find any relevant values and not use values from a table.
+  </p>
+
+  <p>
+    For problems that require showing work, credit will be given for not only the final answer, but the work/justification/formulas that supports that answer.
+
+  </p>
+</li>
+
+
+<li>
+  <p>
+    If you have a question during the exam, ask me!  It is much better to ask right away than to stay stuck for a long time.
+  </p>
+</li>
+
+
+
+  </ul>
+</subsection>
+
+  <subsection xml:id="subsec-exam-1-format">
+    <title>Exam 1 Format</title>
+
+
+   <!-- <p>
+      The exam will be on Canvas, and it will be broken into two parts:  
+      <ul>
+        <li>
+          <p>
+            Part 1:  Must be done in the LockDown Browser
+          </p>
+        </li>
+        <li>
+          <p>
+            Part 2:  Should NOT be done in the LockDown Browser
+          </p>
+        </li>
+      </ul>
+      </p>-->
+
+
+      <p>
+      
+      The exam may have some or all of the following problems/types of problems.  (The exam may have all of these types of problems or a subset of these types of problems.  Some of these problems might not have all the parts that were on corresponding quiz/homework problems.)  Examples of these problems (except for the multiple choice problems) are shown below under <xref ref="exercises-exam-1-practice"/>.
+
+    </p>
+
+    <p>
+            <em>Note:  On the exam, the problems may not all be labeled with the corresponding quiz objective/homework problem.</em>
+      
+    </p>
+    
+    <p>
+      For the multiple choice problems, I recommend looking back at conceptual homework assignments, reviewing concepts from the notes/the book and making sure you understand the definitions and topics we've talked about.
+    </p>
+
+   
+        <ul>
+          <li>
+          <p>
+            <em>Multiple choice problems</em> from these chapters
+          </p>
+        </li>
+
+        <li>
+    <p>
+      <em>Quiz objective <m>\boxed{3a}</m></em>
+    </p>
+    <p>
+      <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-3.html"> Link to example solutions for 3a</url>
+    </p>
+    </li>
+
+    <li>
+    <p>
+      <em>Quiz outcomes <m>\boxed{4a}</m> and <m>\boxed{4b}</m></em>  
+      <p>
+      <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-4.html"> Link to Quiz 4 example solutions </url>
+        </p>
+    </p>
+  </li>
+       
+          <li>
+    <p>
+      <em>Quiz objectives <m>\boxed{1b}</m> and <m>\boxed{1c}</m></em>
+    </p>
+    <p>
+      <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-1.html"> Link to example solutions for 1b and 1c </url>
+    </p>
+    </li>
+
+    <li>
+    <p>
+      <em>Quiz objective <m>\boxed{2a}</m></em>  (This problem will require uploading an Excel file with all your work/formulas.)
+    </p>
+    <p>
+      <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-2.html"> Link to example solutions for 2a </url>
+    </p>
+    </li>
+
+    <li>
+    <p>
+      <em>Quiz objective <m>\boxed{3b}</m></em>  (This problem will require uploading an Excel file with all your work/formulas.)
+    </p>
+    <p>
+      <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-3.html"> Link to example solutions for 3b </url>
+    </p>
+    </li>
+
+    <li>
+      <p>
+        <em>Box-and-whisker plot:</em> You will be given a dataset and asked to construct a box-and-whisker plot for the data. You will need to list the values of the first three quartiles: Q1, Q2, and Q3 and identify any outliers in the data. You will need to do all of your work in Excel and upload the file to Canvas. This is similar to parts of quiz objective <m>\boxed{2b}</m>
+        .
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <em>Problem using the Empirical Rule</em>
+      </p>
+    </li>
+
+    <li>
+    <p>
+      <em>Problem identifying mistake in a solution using Chebyshev's Theorem.</em>
+    </p>
+    <p>
+      (We did a problem using Chebyshev's Theorem in Exercise 3.3.11(d) in the Course Notes, and it might help to look back at that  <url href="https://laurennelsen.github.io/QUAN2010/sec-mean-and-stdev.html" />.)
+    </p>
+  </li>
+
+  <li>
+    <p>
+      <em>Quiz outcome <m>\boxed{4c}</m></em>  
+      <p>
+        <url href="https://laurennelsen.github.io/QUAN2010QuizExamExamples/sec-quiz-4.html"> Link to Quiz 4 example solutions </url>
+      </p>
+    </p>
+  </li>
+  
+
+
+        </ul>
+
+
+
+    
+  </subsection>
+
+
+
+
+  <subsection xml:id="subsec-exam-1-study-suggestions">
+    <title>Suggestions for Study</title>
+
+    <p>
+      Look over all of your class notes and make sure you understand everything we have talked about.  Look back at these chapters/problems in the textbook.  Review the MyLab homework and the quiz problems.  (I do not guarantee that all exam questions will look exactly like one of those problems.) 
+
+    </p>
+
+    <p>
+      Be able to do the problems under <xref ref="exercises-exam-1-practice"/>, and potentially include those on your <q>cheat sheet</q>.
+    </p>
+    
+  </subsection>
+
+
+
+  <exercises xml:id="exercises-exam-1-practice">
+    
+    
+          
+
+<exercise>
+  <statement>
+    <p>
+      <em>Quiz outcome <m>\boxed{1b}</m>:</em>
+    </p>
+    <p>
+      We want to create a histogram using the Data Analysis add-in in Excel.
+If we use the <m>2^k\geq n</m> Rule to find the number of bins, which of the following would be a histogram for
+<q>weight (in lbs)</q> in the Excel file below?
+    </p>
+    <p>
+       <url href="external/sheets/cars93.xlsx" />
+
+    </p>
+  </statement>
+
+  <choices>
+
+    <choice correct="yes">
+      <statement>
+        <p>
+          <image source="sheets/cars_weight_option2.png" width="100%">
+</image>
+        </p>
+      </statement>
+    </choice>
+
+    <choice>
+      <statement>
+        <p>
+                <image source="sheets/cars_weight_option3.png" width="100%">
+</image>
+        </p>
+      </statement>
+    </choice>
+
+     <choice>
+      <statement>
+        <p>
+                 <image source="sheets/cars_weight_option4.png" width="100%">
+</image>
+        </p>
+      </statement>
+    </choice>
+
+     <choice>
+      <statement>
+        <p>
+                 <image source="sheets/cars_weight_option5.png" width="100%">
+</image>
+        </p>
+      </statement>
+    </choice>
+
+     <choice>
+      <statement>
+        <p>
+                <image source="sheets/cars_weight_option6.png" width="100%">
+</image>
+        </p>
+      </statement>
+    </choice>
+  
+  </choices>
+</exercise>
+
+
+<exercise>
+  <statement>
+    <p>
+      <em>Quiz outcome <m>\boxed{1c}</m>:</em>
+    </p>
+<p>
+  The Excel file below includes data about cars released in 1993. Use the Excel file to create a bar chart
+for <q>drive_train</q>. 
+</p>
+<p>
+       <url href="external/sheets/cars93.xlsx" />
+
+    </p>
+    <p>
+      
+The different options for drive train are below:
+<ul>
+  <li>
+    <p>
+      front
+    </p>
+  </li>
+  <li>
+    <p>
+      rear
+    </p>
+  </li>
+  <li>
+    <p>
+      4WD
+    </p>
+  </li>
+</ul>
+</p>
+<p>
+(On the exam you will do all of your work in the attached file and then save and upload it on Canvas.)
+</p>
+  </statement>
+  <hint>
+    <p>
+      (One way to do this is to first create a frequency distribution using the "COUNTIF" function and use that
+to create your bar chart.)
+    </p>
+  </hint>
+  <answer>
+    <p>
+      <image source="sheets/barchartdrivetrain.png" width="100%">
+</image>
+    </p>
+  </answer>
+  </exercise>
+
+
+  <exercise>
+    <introduction>
+      <p>
+        <em>Quiz objective <m>\boxed{2a}</m>:</em>
+      </p>
+      <p>
+        Consider the data included in the Excel file below:
+      </p>
+      <p>
+         <url href="external/sheets/example2a.xlsx" />
+
+      </p>
+    </introduction>
+    <tasks>
+<task>
+  <statement>
+    <p>
+      Find the mean of this data set.  (Round your answer to two decimal places.) 
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>\approx 39.33</m>
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      Find the median of this data set.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>39</m>
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      Find the mode of this data set.  (Enter "none" of there is no mode and if there are multiple modes, then enter them in increasing order separated by commas and no spaces.)
+    </p>
+  </statement>
+  <answer>
+  <p>
+    none
+  </p>
+</answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Identify whether or not there may be left or right skew in this data set.  (Enter "left", "right", or "none".) 
+    </p>
+  </statement>
+  <answer>
+    <p>
+      Either <q>right</q> or <q>none</q> would be correct answers here.  (Technically the mean is to the right of the median, but they are very close together.)
+    </p>
+  </answer>
+</task>
+    </tasks>
+  </exercise>
+
+
+<exercise>
+  <introduction>
+    <p>
+      <em>Quiz objective <m>\boxed{3a}</m>:</em>
+    </p>
+    <p>
+      (This problem will be multiple choice for each part -- you’ll need to choose which of several fractions is the correct probability.)
+    </p>
+    <p>
+      The airline industry defines an on-time flight as one that arrives within 15 minutes of its scheduled time.
+The following table shows the number of on-time and late flights leaving Philadelphia and arriving in
+Orlando during a recent time period by airline:
+    </p>
+    <p>
+      <tabular>
+        <row header="yes">
+          <cell>Airline</cell>
+          <cell>On-Time Flights</cell>
+          <cell>Late Flights</cell>
+        </row>
+        <row>
+          <cell>Southwest</cell>
+          <cell>240</cell>
+          <cell>70</cell>
+        </row>
+        <row>
+          <cell>American</cell>
+          <cell>260</cell>
+          <cell>140</cell>
+        </row>
+        <row>
+          <cell>Frontier</cell>
+          <cell>170</cell>
+          <cell>65</cell>
+        </row>
+      </tabular>
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        What is the probability that a randomly selected flight was from American and was on time?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <tabular>
+          <row header="yes">
+            <cell>Airline</cell>
+            <cell>On-Time Flights</cell>
+            <cell>Late Flights</cell>
+            <cell>Totals:</cell>
+          </row>
+          <row>
+            <cell>Southwest</cell>
+            <cell>240</cell>
+            <cell>70</cell>
+            <cell>310</cell>
+          </row>
+          <row>
+            <cell>American</cell>
+            <cell>260</cell>
+            <cell>140</cell>
+            <cell>400</cell>
+          </row>
+          <row>
+            <cell>Frontier</cell>
+            <cell>170</cell>
+            <cell>65</cell>
+            <cell>235</cell>
+          </row>
+          <row header="yes">
+            <cell>Totals:</cell>
+            <cell>670</cell>
+            <cell>275</cell>
+            <cell>945</cell>
+          </row>
+        </tabular>
+      </p>
+      <p>
+        <m>\frac{260}{945}\approx 0.2751</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What is the probability that a randomly selected flight was from Southwest or was on time?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>\frac{310+670-240}{945}\approx 0.7831</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Given that the flight was late, what is the probability that it was from Frontier?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>\frac{65}{275}\approx 0.2364</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        Given that the flight was from Frontier, what is the probability that it was late?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>\frac{65}{235}\approx 0.2766</m>
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+<!--
+<exercise>
+  <introduction>
+    <p> Consider the following list of data: <me>58, 67, 67, 82, 91, 92, 92, 103, 110, 178,</me> </p>
+  </introduction>
+
+  <task>
+    <statement>
+      <p> Find the sample standard deviation of this data set. </p>
+    </statement>
+    <answer>
+      <p>
+        In Excel:  =STDEV.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)
+      </p>
+      <p> The sample standard deviation is <m>\approx 33.842773724</m>. </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p> Find the sample variance of this data set. </p>
+    </statement>
+    <answer>
+      <p>
+        In Excel:  =VAR.S(58, 67, 67, 82, 91, 92, 92, 103, 110, 178,)
+      </p>
+      <p> The sample variance is <m>\approx 1145.3333333338646</m>. </p>
+    </answer>
+  </task>
+
+</exercise>
+-->
+
+
+<exercise>
+  <introduction>
+    <p>
+      <em>Quiz objective <m>\boxed{3b}</m>:</em>
+    </p>
+<p>
+          (For this problem, round each answer to 4 decimal places. Do not round until you have the final
+answer.)
+        </p>
+        <p>
+Consider store that sells primarily PCs. Each customer that comes in may buy one, none or several
+PCs. Let <m>X</m> denote the number of PCs a customer who comes into the store purchases. Consider the
+following probability distribution table for <m>X</m>:
+        </p>
+        <p>
+            <tabular halign="center">
+              <row header="yes" bottom="minor" >
+                <cell right="minor"><m>X_i</m></cell>
+                <cell right="minor"><m>0</m></cell>
+                <cell right="minor"><m>1</m></cell>
+                <cell right="minor"><m>2</m></cell>
+                <cell ><m>3</m></cell>
+              </row>
+              <row>
+                <cell right="minor"><m>P(X=X_i)</m></cell>
+                <cell right="minor">???</cell>
+                <cell right="minor"><m>0.374</m></cell>
+                <cell right="minor"><m>0.09</m></cell>
+                <cell ><m>0.02</m></cell>
+              </row>
+            </tabular>
+        </p>
+        <p>
+          <ol>
+            <li>
+              <p>
+                What is the value of the missing entry?
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the expected value of <m>X</m>, <m>E(X)</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the variance of <m>X</m>, <m>Var(X)</m>.
+              </p>
+            </li>
+            <li>
+              <p>
+                Find the standard deviation of <m>X</m>, <m>\sigma_X</m>.
+              </p>
+            </li>
+          </ol>
+        </p>
+        </introduction>
+        <answer>
+          <p>
+                        <url href="external/sheets/3b Example Solution.xlsx" />
+          </p>
+        </answer>
+      </exercise>
+
+
+      <exercise>
+        <statement>
+          <p>
+            Box-and-whisker plot
+          </p>
+          <p>
+            The data in the attached file below shows the amount spent on lunch by a random sample of customers at a local restaurant.
+          </p>
+          <p>
+             <url href="external/sheets/Lunch.xlsx" />
+
+          </p>
+          <p>
+Construct a box-and-whisker plot for the data.   List the values of the first three quartiles:  Q1, Q2, and Q3.  Are there any outliers in the data?  If so, identify them. 
+          </p>
+          <p>
+            (On the exam you will do all of your work in the attached file and then upload your file on Canvas.)
+          </p>
+          <p>
+          (Note:  your quartile values should be the same as the values of the quartiles shown in your box-and-whisker plot.)
+          </p>
+        </statement>
+        <answer>
+          <p>
+              <url href="external/sheets/LunchSolutions.xlsx" />
+          </p>
+        </answer>
+      </exercise>
+
+      <exercise>
+        <statement>
+          <p>
+            <em>Problem using the Empirical Rule</em>
+          </p>
+          <p>
+            The average employees' annual healthcare costs at a particular company for 2024 was <m>\$13,000</m> with a standard deviation of <m>\$4,750</m>. If the distribution of those healthcare costs is approximately bell-shaped, between what two values would 95% of employees' share of annual healthcare costs fall?  (Hint:  Use the Empirical Rule.)
+          </p>
+          <p>
+            Include all of your calculations in the Excel file that you upload.
+          </p>
+          <p>
+             <url href="external/sheets/EmpiricalSolutions.xlsx" />
+
+          </p>
+        </statement>
+      </exercise>
+
+<exercise>
+  <statement>
+      <p>
+<em>  Problem identifying mistake in a solution using Chebyshev’s Theorem:</em>
+</p>
+      <p>
+        Assume the average selling price for houses in a certain county is <m>\$ 348,000</m> with a standard deviation of <m>\$ 30,000</m>.  Assume that the distribution of home selling prices is not bell-shaped.
+    </p>
+    <p>
+      We want to find a range of prices that we expect to include at least <m>91\%</m> of the homes around the mean.  A student wanted to solve this problem and did the work below.  Identify the issue or mistake with this work/solution.
+  </p>
+<p>
+  Student's solution:
+</p>    
+<p>
+        <me>1-\frac{1}{z^2}=0.91</me>
+        <me>1-0.91=\frac{1}{z^2}</me>
+        <me>0.09 = \frac{1}{z^2}</me>
+        <me>0.09z^2 = 1</me>
+        <me>z^2=\frac{1}{0.09}</me>
+        <me>z=\sqrt{\frac{1}{0.09}}</me>
+    </p>
+    <p>
+        So the range of prices including values within <m>\sqrt{\frac{1}{0.09}}</m> of the mean will include at least <m>91\%</m> of the homes.
+    </p>
+    <p>
+        <me>\mu\pm \sqrt{\frac{1}{0.09}}\sigma</me>
+        <me>348,000\pm \sqrt{\frac{1}{0.09}}\cdot 30,000</me>
+        <me>\boxed{\$248,000\text{ to }\$ 448,000}</me>
+    </p>
+  </statement>
+    <answer>
+      <p>
+        This solution is correct and does not have a mistake.  On the exam, you might have a version that is not correct and you will need to determine what the mistake is.  (This problem will be multiple choice.)
+      </p>
+    </answer>
+</exercise>
+
+
+
+<!--<exercise>
+  <statement>
+  <p>
+   <em> Problem like Question 25 from the Week 3 Homework</em>
+  </p>
+  <p>
+    Suppose that a poll finds that <m>39.4\%</m> of taxpayers who filed their tax return electronically​ self-prepared their taxes. If three tax returns submitted electronically are randomly​ selected, what is the probability that all three were​ self-prepared?
+  </p>
+  </statement>
+  <answer>
+    <p>
+      <m>(0.394)^3\approx 0.061</m>
+    </p>
+  </answer>
+</exercise>-->
+
+
+
+<!--<exercise>
+  <introduction>
+  <p>
+   <em> Quiz outcome <m>\boxed{3b}</m>  (first two parts)</em>
+  </p>
+<p>
+  (For this problem, round each answer to 4 decimal places. Do not round until you have the final
+answer.)
+</p>
+<p>
+  Consider store that sells primarily PCs. Each customer that comes in may buy one, none or several
+PCs. Let <m>X</m> denote the number of PCs a customer who comes into the store purchases. Consider the
+following probability distribution table for <m>X</m>:
+</p>
+<p>
+  <tabular>
+    <row>
+      <cell><m>X_i</m></cell> <cell>0</cell> <cell>1</cell> <cell>2</cell> <cell>3</cell>
+    </row>
+    <row>
+      <cell><m>P(X=X_i)</m></cell> <cell>???</cell> <cell>0.374</cell> <cell>0.09</cell> <cell>0.02</cell>
+    </row>
+  </tabular>
+</p>
+</introduction>
+<task>
+  <statement>
+    <p>
+      What is the value of the missing entry?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>=1-(0.374+0.09+0.02)=0.516</m>
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+      Find the expected value of <m>X</m>, <m>E(X)</m>.
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>E(X)=0(0.516)+1(0.374)+2(0.09)+3(0.02)=0.614</m>
+    </p>
+    <p>
+      (What does this mean?)
+    </p>
+  </answer>
+</task>
+</exercise>
+
+
+
+<exercise>
+  <introduction>
+<p>
+  <em>Week 4 Homework Question 4</em>
+</p>
+<p>
+  Consider a binomial probability distribution with <m>p=0.3</m> and <m>n=50</m>.  What is the probability of the following?
+</p>
+</introduction>
+
+<task>
+  <statement>
+    <p>
+      exactly twenty successes (<m>P(X=20)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+     <m> BINOM.DIST(20,50,0.3,FALSE)\approx 0.0370  </m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      less than fifteen successes (<m>P(X\lt 15)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+     <m> BINOM.DIST(14,50,0.3,TRUE) 0.4468\approx  </m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      less than or equal to fifteen successes (<m>P(X\leq 15)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+     <m> BINOM.DIST(15,50,0.3,TRUE)\approx 0.5692 </m>
+    </p>
+  </answer>
+</task>
+
+
+<task>
+  <statement>
+    <p>
+      between 17 and 30 successes (<m>P(17\leq X\leq 30)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+     <m> BINOM.DIST(30,50,0.3,TRUE)-BINOM.DIST(16,50,0.3,TRUE)\approx 0.3161 </m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      more than 10 successes (<m>P(X\gt 10)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>1-BINOM.DIST(10,50,0.3,TRUE)\approx 0.9211</m>
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      at least 10 successes (<m>P(X\geq 10)</m>)
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <m>1-BINOM.DIST(9,50,0.3,TRUE)\approx 0.9598</m>
+    </p>
+  </answer>
+</task>
+
+</exercise>
+
+
+
+<exercise>
+  <statement>
+  <p>
+    <em>Week 5 Homework Question 1</em>
+  </p>
+  <p>
+    The average daily revenue at a local small business is <m>\$ 250</m>.  The following list is a random sample of the business's daily revenue from five different days.
+    <me>\$ 250,\; \$400,\; \$275,\;\$380,\; \$190</me>
+  </p>
+  <p>
+    Calculate the sampling error for this sample.
+  </p>
+</statement>
+<answer>
+  <p>
+    <m>\overline{x}=\frac{250+400+275+380+190}{5}=299</m>
+  </p>
+  <p>
+    Sampling error:  
+    <me>\overline{x}-\mu = 299-250=\$ 49</me>
+  </p>
+</answer>
+</exercise>
+
+
+
+<exercise>
+  <introduction>
+  <p>
+   <em> Quiz outcome <m>\boxed{4a}</m></em>
+  </p>
+  <p>
+    Let <m>Z</m> be the standard normal variable.  Find the following, and round your answer to four decimal places:
+  </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        <m>P(Z\leq -1.19)</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>NORM.S.DIST(-1.19,1)\approx 0.1170 </m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>P(-1.95\lt Z\lt -0.01)</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>NORM.S.DIST(-0.01,1)-NORM.S.DIST(-1.95,1)\approx 0.4704</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>P(Z\gt 2.1)</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>1-NORM.S.DIST(2.1,1)\approx 0.0179 </m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>z^{\ast}</m> such that <m>P(Z\geq z^{\ast})=0.4</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>NORM.S.INV(0.6)\approx 0.2533 </m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>z^{\ast}</m> such that <m>P(Z\leq z^{\ast})=0.3</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>NORM.S.INV(0.3)\approx -0.5244</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        <m>z^{\ast}</m> such that <m>P(-z^{\ast}\lt Z\lt z^{\ast})=0.87</m>
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>1-0.87=0.13</m>
+      </p>
+      <p>
+        <m>0.13/2 = 0.065</m>
+      </p>
+      <p>
+        <m>NORM.S.INV(0.87+0.065)\approx 1.5141 </m>
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+
+
+<exercise>
+  <introduction>
+    <p>
+      Exercise 7.1.14 from the Course Notes (<url href="https://laurennelsen.github.io/QUAN2010/sec-normal-distribution.html" />)
+    </p>
+    <p>
+      A random variable follows the normal probability distribution with a mean of 80 and a standard deviation of 6.
+    </p>
+  </introduction>
+  <task>
+    <statement>
+      <p>
+        What is the probability that a randomly selected value from this population is greater than or equal to 70?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>P(X\geq 70) = 1-NORM.DIST(70,80,6,1)\approx 0.9522</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What is the probability that a randomly selected value from this population is less than 70?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>P(\lt 70)=NORM.DIST(70,80,6,1)\approx 0.0478</m>
+      </p>
+    </answer>
+  </task>
+  <task>
+    <statement>
+      <p>
+        What is the probability that a randomly selected value from this population is between 75 and 85?
+      </p>
+    </statement>
+    <answer>
+      <p>
+        <m>P(75\leq X\leq 85)=NORM.DIST(85,80,6,1)-NORM.DIST(75,80,6,1)\approx 0.5953</m>
+      </p>
+    </answer>
+  </task>
+</exercise>
+
+-->
+
+<exercise>
+  <statement>
+    <p>
+      <em>Quiz Objective <m>\boxed{4a}</m>:</em>
+    </p>
+    <p>
+          Your class conducted a survey last week on whether students prefer digital or paper textbooks. Out of 120 responses, 72 preferred digital.
+        </p>
+        <p>
+          You are designing a promotional campaign for a new digital textbook. You plan to randomly sample 10 students from the same population.
+        </p>
+        <p>
+        <tasks>
+          <task>
+            <p>
+              Is it appropriate to model the number of students who prefer digital textbooks using a binomial distribution? Justify your answer.
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    Yes because more than half of students in the previous survey preferred digital 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Yes because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability is the same each time, and what one student prefers should be independent of what another prefers  
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    No because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability is the same each time, and what one student prefers should be independent of what another prefers 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Yes because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability changes each time, and what one student prefers should be independent of what another prefers 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    No because more than half of students in the previous survey preferred digital 
+
+                  </p>
+                </li>
+              </ul>
+
+            </p>
+            <answer>
+              <p>
+                Yes because we are asking a fixed number of people, the only options for each student are that they do prefer digital textbooks or they do not prefer digital textbooks, the probability is the same each time, and what one student prefers should be independent of what another prefers
+
+              </p>
+            </answer>
+          </task>
+          <task>
+            <p>
+              Assuming it is appropriate, what formula would you use to find the probability that at least 8 of the 10 sampled students prefer digital?
+            </p>
+            <p>
+              Options:
+              <ul>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,0) 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(7,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-BINOM.DIST(8,10,72/120,0) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    1-NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    NORM.DIST(8,10,72/120,1) 
+
+                  </p>
+                </li>
+              </ul>
+            </p>
+            <answer>
+              <p>
+                1-BINOM.DIST(7,10,72/120,1)
+              </p>
+            </answer>
+          </task>
+        </tasks>
+      </p>
+  </statement>
+</exercise>
+
+        
+<exercise>
+  <statement>
+    <p>
+      <em>Quiz Objective <m>\boxed{4b}</m>:</em>
+    </p>
+    <p>
+          Let <m>Z</m> be the standard normal variable.
+          <tasks>
+            <task>
+              <p>
+                Consider the Excel formula given below:
+                <me>
+                  =1-NORM.S.DIST(1.06,1)
+                </me>
+                Which of the following probabilities could this formula be used to calculate?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is less than 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is equal to 1.06
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is between 1 and 1.06
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  the probability that Z is bigger than 1.06
+                </p>
+              </answer>
+            </task>
+            <task>
+              <p>
+                Consider the Excel formula given below:
+                <me>
+                  =NORM.S.DIST(3.2,1)-NORM.S.DIST(-1.7,1)
+                </me>
+                Which of the following probabilities could this formula be used to calculate?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      the probability that Z is between -1.7 and 3.2
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 3.2 or smaller than -1.7
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is bigger than 3.2 and -1.7
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      the probability that Z is between 1 and 3.2 or between 1 and -1.7
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  the probability that Z is between -1.7 and 3.2
+                </p>
+              </answer>
+            </task>
+            <task>
+              <p>
+                Which of these formulas could be used to find <m>z^{\star}</m> such that <m>P(Z\leq z^{\star})=0.96</m>?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      =NORM.S.INV(0.04) 
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.INV(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.DIST(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =NORM.S.DIST(0.04) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.INV(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.INV(0.04) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.DIST(0.96) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                       =1-NORM.S.DIST(0.04) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  =NORM.S.INV(0.96)
+                </p>
+              </answer>
+            </task>
+            <task>
+              <p>
+                Which of these formulas could be used to find <m>z^{\star}</m> such that <m>P(-z^{\star}\leq Z\leq z^{\star})=0.95</m>?
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95+0.05) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95 + 0.05/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.INV(1-0.95/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.INV(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.INV(0.975) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95+0.05/2) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(0.95+0.05) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  NORM.S.INV(0.95 + 0.05/2)
+
+                </p>
+              </answer>
+            </task>
+          </tasks>
+        </p>
+  </statement>
+</exercise>
+
+
+
+<exercise>
+  <statement>
+    <p>
+      <em>Quiz Objective <m>\boxed{4c}</m>:</em>
+    </p>
+    <p>
+          A random variable follows a normal probability distribution with a standard deviation of 5.
+    </p>
+<p>
+          <tasks>
+            <task>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c1.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(32,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(32,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(32,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(32,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(32,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.DIST(32,1) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                                        NORM.DIST(32,38,5,1) 
+
+                </p>
+              </answer>
+            </task>
+            <task>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c2.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(40,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      1-NORM.S.DIST(40,1) 
+
+                    </p>
+                  </li>
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  1-NORM.DIST(40,38,5,1)
+                </p>
+              </answer>
+            </task>
+            <task>
+              <p>
+                What formula would you use to find the probability shown below?
+              </p>
+              <p>
+                <image source="sheets/4c3.png" width="100%"></image>
+              </p>
+              <p>
+                Options:
+                <ul>
+                  <li>
+                    <p>
+                      NORM.DIST(35,38,5,1)-NORM.DIST(40,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,1)-NORM.DIST(35,38,5,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,5,38,1)-NORM.DIST(35,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(35,5,38,1)-NORM.DIST(40,5,38,1) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(40,38,5,0)-NORM.DIST(35,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.DIST(35,38,5,0)-NORM.DIST(40,38,5,0) 
+
+                    </p>
+                  </li>
+                  <li>
+                    <p>
+                      NORM.S.DIST(40,1)-NORM.S.DIST(35,1) 
+
+                    </p>
+                  </li>
+                
+                </ul>
+              </p>
+              <answer>
+                <p>
+                  NORM.DIST(40,38,5,1)-NORM.DIST(35,38,5,1)
+
+                </p>
+              </answer>
+            </task>
+          </tasks>
+          </p>
+
+  </statement>
+</exercise>
+
+  </exercises>
+
+
+
+  </section>
