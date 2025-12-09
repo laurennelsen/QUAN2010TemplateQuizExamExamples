@@ -139,8 +139,7 @@
                 </li>
                 <li>
                   <p>
-                    One of your classmates claims that "average customer rating doesn't matter".  Use the regression output and/or your answer to part (c) to evaluate this claim.
-                  </p>
+                  Do we have enough evidence to conclude that the coefficient on the "average customer rating" variable is nonzero?  Why or why not?                  </p>
                 </li>
               </ol>
             </p>
@@ -178,6 +177,9 @@
               <li>
                 <p>
                   <em>Objective 8b:</em>
+                </p>
+                <p>
+                  (This video is answering a slightly different question than is given here for part (d).  Our version is asking if we have enough evidence to conclude the coefficient on the <q>average customer rating</q> variable is nonzero.)
                 </p>
                 <p>
                   <video youtube="cCiHQWl5GLk"/>
