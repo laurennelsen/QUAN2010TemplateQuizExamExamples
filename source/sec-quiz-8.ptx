@@ -137,10 +137,10 @@
                     Find a <m>95\%</m> confidence interval for <m>\beta_2</m>.
                   </p>
                 </li>
-                <li>
+                <!--<li>
                   <p>
                   Do we have enough evidence to conclude that the coefficient on the "average customer rating" variable is nonzero?  Why or why not?                  </p>
-                </li>
+                </li>-->
               </ol>
             </p>
           </example>
@@ -178,11 +178,11 @@
                 <p>
                   <em>Objective 8b:</em>
                 </p>
-                <p>
+                <!--<p>
                   (This video is answering a slightly different question than is given here for part (d).  Our version is asking if we have enough evidence to conclude the coefficient on the <q>average customer rating</q> variable is nonzero.)
-                </p>
+                </p>-->
                 <p>
-                  <video youtube="cCiHQWl5GLk"/>
+                  <video youtube="YlWp39THTR8"/>
                 </p>
               </li>
             </ul>
